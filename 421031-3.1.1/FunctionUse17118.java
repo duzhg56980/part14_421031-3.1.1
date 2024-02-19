@@ -1,0 +1,7 @@
+import org.apache.hadoop.fs.viewfs.NflyFSystem.NflyStatus;
+public class FunctionUse17118 {
+public void funcUse() {
+NflyStatus nflystatus = new NflyStatus();
+nflystatus.getModificationTime();
+}
+}
